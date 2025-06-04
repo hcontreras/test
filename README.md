@@ -19,3 +19,4 @@ más cambios desde terminal
 
 
 un fix 1
+fix 2
