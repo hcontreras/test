@@ -16,3 +16,6 @@ klajsdflkjasdlkfj
 alsdkflkasdjflkasdjf
 cambios desde la terminal (2)
 más cambios desde terminal
+
+
+un fix 1
